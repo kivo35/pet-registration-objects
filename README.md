@@ -1,4 +1,3 @@
-# Basic Project
-## This file is modified to include a link to google site
+# Pet Registration program using objects
 
-[Google](https://google.com)
+
